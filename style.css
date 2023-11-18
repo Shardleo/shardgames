@@ -1,0 +1,169 @@
+* {
+   margin: 0px; 
+}
+
+body {
+    font-family: 'Segoe UI';
+}
+
+.div-1 {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    height: 50px;
+    background-color:red;
+    opacity: 80%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+nav, a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.img{
+    width: 33%;
+    height: 450px;
+}
+
+.div-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 650px;
+    
+   
+}
+
+.highlight-text {
+    font-size: 75px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.div-3{
+    display: flex;
+    width: 100%;
+    height: 600px;
+}
+.playstation5{
+    width: 50%;
+    height: 600px;
+}
+
+.ps5{
+    width: 75%;
+    height: 600px;
+    padding-left: 15%;
+}
+.playstation4{
+    width: 50%;
+    height: 600px;
+}
+
+.ps4{
+    width: 75%;
+    height: 600px;
+    padding-left: 5%;
+}
+
+.legenda1{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+
+.produto1{
+    width: 100%;
+    height: 400px;
+    padding-left: 20%;
+    
+}
+
+.produto2{
+    width: 100%;
+    height: 400px;
+    padding-left: 10%;
+}
+
+.div-4{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    
+}
+.nintendoswitch{
+    width: 50%;
+    height: 600px;
+}
+
+.nintendo{
+    width: 60%;
+    height: 450px;
+    padding-left: 20%;
+}
+
+.seriex{
+    width: 50%;
+    height: 600px;
+}
+
+.xbox{
+    width: 60%;
+    height: 500px;
+    padding-left: 15%;
+}
+
+.legenda2{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+
+.produto3{
+    width: 100%;
+    height: 400px;
+    padding-left: 20%;
+}
+
+.produto4{
+    width: 100%;
+    height: 400px;
+    padding-left: 10%;
+}
+    
+.div-5{
+width: 100%;
+height: 150px;
+background-color: black;
+}
+
+.div-6{
+width: 100%;
+height: 100px;
+background-color: rgb(36, 35, 35);
+color: white;
+text-align: center;
+
+
+}
+.jss76 {
+    display: flex;
+    margin-top: 2rem;
+    padding-right: 4rem !important;
+    justify-content: space-between;
+    color: white;
+}
+
+.div-7 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(48, 47, 47);
+}
